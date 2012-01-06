@@ -1,6 +1,6 @@
 
 Initial project folder for a book about Freeciv.
 
-There's not much yet but you can start watching this project for updates.
+There isn't much yet but you can start watching this project for updates.
 
-Project website will be: http://www.freecivbook.com/
+Meanwhile I am writing about Freeciv in my daily blog at: http://www.freecivbook.com/blog/
